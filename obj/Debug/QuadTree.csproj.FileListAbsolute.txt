@@ -1,0 +1,10 @@
+E:\Projects\C#\QuadTree\QuadTree\bin\Debug\QuadTree.exe.config
+E:\Projects\C#\QuadTree\QuadTree\bin\Debug\QuadTree.exe
+E:\Projects\C#\QuadTree\QuadTree\bin\Debug\QuadTree.pdb
+E:\Projects\C#\QuadTree\QuadTree\obj\Debug\QuadTree.csprojAssemblyReference.cache
+E:\Projects\C#\QuadTree\QuadTree\obj\Debug\QuadTree.Form1.resources
+E:\Projects\C#\QuadTree\QuadTree\obj\Debug\QuadTree.Properties.Resources.resources
+E:\Projects\C#\QuadTree\QuadTree\obj\Debug\QuadTree.csproj.GenerateResource.cache
+E:\Projects\C#\QuadTree\QuadTree\obj\Debug\QuadTree.csproj.CoreCompileInputs.cache
+E:\Projects\C#\QuadTree\QuadTree\obj\Debug\QuadTree.exe
+E:\Projects\C#\QuadTree\QuadTree\obj\Debug\QuadTree.pdb
